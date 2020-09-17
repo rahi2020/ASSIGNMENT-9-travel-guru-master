@@ -1,0 +1,25 @@
+.travel-container{
+    margin-top:150px;
+    display:flex;
+}
+
+h1{
+    font-size:60px;
+    color: white;
+}
+.info-container{
+    color: white;
+    width:30%;
+    margin-left:200px
+    
+}
+.cox-bazar{
+    width:10%
+}
+.cart-container{
+    display:flex;
+}
+.booking{
+    text-decoration: none;
+    color:black;
+}
