@@ -37,7 +37,7 @@ const Destination = () => {
 
                     
                     <div>
-                        <button type="button" class="btn btn-warning booking" ><Link to="/"><span className="booking">Start Booking</span></Link></button>
+                        <button type="button" class="btn btn-warning booking" ><Link to="/login"><span className="booking">Start Booking</span></Link></button>
                     </div>
                 </div>
            
